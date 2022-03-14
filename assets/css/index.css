@@ -48,6 +48,7 @@ a {
 
 .navbar__items .navbar__item__link:hover {
     text-decoration: line-through;
+    background-color: #4f5356;
 }
 
 .navbar__item{
@@ -162,7 +163,7 @@ a {
 
 .multimedia__button{
     color: black;
-    background-color: whitesmoke;
+    background-color: black;
     margin-top: 2%;
     width: auto;
     padding: 1%;
