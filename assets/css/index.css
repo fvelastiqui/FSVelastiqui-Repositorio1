@@ -116,7 +116,7 @@ a {
 }
 
 .text__pagina{
-    color: #938274;
+    color: whitesmoke;
     text-align: justify;
     line-height: 2rem;
 }
@@ -162,7 +162,7 @@ a {
 
 .multimedia__button{
     color: black;
-    background-color: white;
+    background-color: whitesmoke;
     margin-top: 2%;
     width: auto;
     padding: 1%;
